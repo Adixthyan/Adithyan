@@ -1,4 +1,4 @@
-![Adithyan's card name](https://xeno-card-view.vercel.app/api?name=Adithyan%&description=🖥️+🖤+ɪ+ᴡʀɪᴛᴇ.+ɪ+ʙʀᴇᴀᴋ.+ʏᴏᴜ+sʟᴇᴇᴘ.+ɪ+ᴇxᴇᴄᴜᴛᴇ.&image=https://avatars.githubusercontent.com/u/251968401?v=4&backgroundColor=%23ecf0f1&instagram=4dix_thyan_&linkedin=&github=XENO-SIR-MD&pattern=leaf&colorPattern=%23eaeaea)
+![Adithyan's card name](https://xeno-card-view.vercel.app/api?name=Adithyan%&description=🖥️+🖤+ɪ+ᴡʀɪᴛᴇ.+ɪ+ʙʀᴇᴀᴋ.+ʏᴏᴜ+sʟᴇᴇᴘ.+ɪ+ᴇxᴇᴄᴜᴛᴇ.&image=https://avatars.githubusercontent.com/u/251968401?v=4&backgroundColor=%23ecf0f1&instagram=4dix_thyan___&linkedin=&github=Adixthyan&pattern=leaf&colorPattern=%23eaeaea)
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=XENO-SIR-MD&label=Profile%20views" alt="X-E-N-O-S-I-R" style="width: 150px;" />  
