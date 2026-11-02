@@ -1,4 +1,4 @@
-![XENO SIR's card name](https://xeno-card-view.vercel.app/api?name=XENO%20SIR&description=🖥️+🖤+ɪ+ᴡʀɪᴛᴇ.+ɪ+ʙʀᴇᴀᴋ.+ʏᴏᴜ+sʟᴇᴇᴘ.+ɪ+ᴇxᴇᴄᴜᴛᴇ.&image=https://avatars.githubusercontent.com/u/251968401?v=4&backgroundColor=%23ecf0f1&instagram=4dix_thyan_&linkedin=&github=XENO-SIR-MD&pattern=leaf&colorPattern=%23eaeaea)
+![Adithyan's card name](https://xeno-card-view.vercel.app/api?name=Adithyan%&description=🖥️+🖤+ɪ+ᴡʀɪᴛᴇ.+ɪ+ʙʀᴇᴀᴋ.+ʏᴏᴜ+sʟᴇᴇᴘ.+ɪ+ᴇxᴇᴄᴜᴛᴇ.&image=https://avatars.githubusercontent.com/u/251968401?v=4&backgroundColor=%23ecf0f1&instagram=4dix_thyan_&linkedin=&github=XENO-SIR-MD&pattern=leaf&colorPattern=%23eaeaea)
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=XENO-SIR-MD&label=Profile%20views" alt="X-E-N-O-S-I-R" style="width: 150px;" />  
@@ -11,7 +11,7 @@
   <a href="https://adithyan.zone.id" target="_blank">  
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />  
   </a>  
-  <a href="https://instagram.com/4dix_thyan" target="_blank">  
+  <a href="https://instagram.com/4dix_thyan__" target="_blank">  
     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />  
   </a>  
 </div>  
@@ -37,8 +37,8 @@
 <br/>  
 
 <div align="center">  
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=XENO-SIR-MD&count_private=true&theme=react&border_radius=10" alt="streak stats" />  
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=XENO-SIR-MD&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Adixthyan&count_private=true&theme=react&border_radius=10" alt="streak stats" />  
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Adixthyan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  
   <br/>  
   <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=XENO-SIR-MD&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />  
 </div>  
